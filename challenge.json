@@ -1,9 +1,10 @@
 ﻿{
-  "editable": [
-  ],
-  "excludes": [
-    ".gitignore",
-    "challenge.json"
-  ],
-  "test": "nunit-console target/SimpleBinaryChallenge.dll"
+    "editable": [
+        "Main.cs"
+    ],
+    "excludes": [
+        ".gitignore",
+        "challenge.json"
+    ],
+    "test": "nunit-console target/SimpleBinaryChallenge.dll"
 }
