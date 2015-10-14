@@ -1,0 +1,4 @@
+*.xml
+bin
+obj
+target/
