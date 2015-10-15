@@ -1,0 +1,11 @@
+﻿{
+    "editable": [
+        "app.js"
+    ],
+    "excludes": [
+        ".gitignore",
+        "challenge.json",
+        "test2.js"
+    ],
+    "test": "mocha"
+}
