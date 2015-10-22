@@ -1,0 +1,11 @@
+{
+  "editable": [
+    "src/main/scala/Binary.scala"
+  ],
+  "excludes": [
+    ".gitignore",
+    "challenge.json",
+    "BinaryHiddenTest.scala"
+  ],
+  "test": "sbt test"
+}
