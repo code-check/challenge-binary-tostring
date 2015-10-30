@@ -1,0 +1,11 @@
+{
+  "editable": [
+    "binary.py"
+  ],
+  "excludes": [
+    ".gitignore",
+    "challenge.json",
+    "testbinaryhidden.py"
+  ],
+  "test": "nosetests *"
+}
