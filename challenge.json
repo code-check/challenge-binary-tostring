@@ -6,5 +6,9 @@
         ".gitignore",
         "challenge.json"
     ],
-    "test": "nunit-console target/SimpleBinaryChallenge.dll"
+    "test": "nunit-console target/SimpleBinaryChallenge.dll",
+    "tags": [
+        "C#",
+        "Algorithm"
+    ]
 }
