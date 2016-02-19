@@ -6,5 +6,9 @@
         "binary_hidden_test.go",
         "challenge.json"
     ],
-    "test": "go test"
+    "test": "go test",
+    "tags": [
+        "Go",
+        "Algorithm"
+    ]
 }
