@@ -9,7 +9,7 @@
     ],
     "test": "mocha",
     "tags": [
-        "JavaScript",
+        "nodejs",
         "Algorithm"
     ]
 }
