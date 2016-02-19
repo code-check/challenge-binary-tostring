@@ -7,5 +7,9 @@
     "challenge.json",
     "BinaryHiddenTest.scala"
   ],
-  "test": "sbt test"
+  "test": "sbt test",
+  "tags": [
+      "Scala",
+      "Algorithm"
+  ]
 }
