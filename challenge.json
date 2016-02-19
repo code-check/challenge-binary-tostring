@@ -7,5 +7,9 @@
     "challenge.json",
     "testbinaryhidden.py"
   ],
-  "test": "nosetests *"
+  "test": "nosetests *",
+  "tags": [
+      "Python",
+      "Algorithm"
+  ]
 }
