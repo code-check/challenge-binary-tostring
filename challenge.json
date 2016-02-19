@@ -7,5 +7,9 @@
     "challenge.json",
     "HiddenTest.java"
   ],
-  "test": "mvn test"
+  "test": "mvn test",
+  "tags": [
+      "Java",
+      "Algorithm"
+  ]
 }
