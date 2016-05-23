@@ -1,15 +1,19 @@
 {
-  "editable": [
-    "binary.py"
-  ],
-  "excludes": [
-    ".gitignore",
-    "challenge.json",
-    "testbinaryhidden.py"
-  ],
-  "test": "nosetests *",
   "tags": [
       "Python",
       "Algorithm"
-  ]
+  ],
+  "editable": [
+    "binary.py",
+    ".gitignore"
+  ],
+  "excludes": [
+    "challenge.json",
+    "testbinaryhidden.py"
+  ],
+  "readme" : {
+    "en": "README.md"
+  },
+  "main": "binary.py",
+  "test": "nosetests"
 }

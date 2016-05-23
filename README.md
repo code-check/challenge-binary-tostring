@@ -15,12 +15,18 @@ Note:
 
 ### Test Results *before* solving the challenge  
 ```
-Write Test reults before solving challenge
+codecheck: Finish with code 1
+codecheck: tests  : 2
+codecheck: success: 0
+codecheck: failure: 2
 ```
 
 ### Test Results *after* solving the challenge
 ```
-Write Test reults after solving challenge
+codecheck: Finish with code 0
+codecheck: tests  : 2
+codecheck: success: 2
+codecheck: failure: 0
 ```
 --- --- ---
 ## Run Tests
