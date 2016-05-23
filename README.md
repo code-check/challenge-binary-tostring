@@ -10,17 +10,23 @@ For example:
 Reference: [Decimal to Binary number](https://en.wikipedia.org/wiki/Binary_number)
 
 Note:
-- You should use [filename](filepath) to solve the challenge.
-- You can refer the tests [here](filepath).
+- You should use [binary.go](binary.go) to solve the challenge.
+- You can refer the tests [binary_test.go](binary_test.go).
 
 ### Test Results *before* solving the challenge  
 ```
-Write Test reults before solving challenge
+codecheck: Finish with code 2
+codecheck: tests  : 0
+codecheck: success: 0
+codecheck: failure: 0
 ```
 
 ### Test Results *after* solving the challenge
 ```
-Write Test reults after solving challenge
+codecheck: Finish with code 0
+codecheck: tests  : 2
+codecheck: success: 2
+codecheck: failure: 0
 ```
 --- --- ---
 ## Run Tests

@@ -1,14 +1,19 @@
 ﻿{
+    "tags": [
+        "Go",
+        "Algorithm"
+    ],
     "editable": [
-        "binary.go"
+        "binary.go",
+        ".gitignore"
     ],
     "excludes": [
         "binary_hidden_test.go",
         "challenge.json"
     ],
-    "test": "go test",
-    "tags": [
-        "Go",
-        "Algorithm"
-    ]
+    "readme" : {
+        "en" : "README.md"
+    },
+    "main": "binary.go",
+    "test": "go test"
 }
