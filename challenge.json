@@ -1,15 +1,20 @@
 {
-  "editable": [
-    "app/*"
-  ],
-  "excludes": [
-    ".gitignore",
-    "challenge.json",
-    "hiddenTest.php"
-  ],
-  "test": "phpunit test",
   "tags": [
       "PHP",
       "Algorithm"
-  ]
+  ],
+  "editable": [
+    "app/*",
+    ".gitignore"
+  ],
+  "excludes": [
+    "challenge.json",
+    "hiddenTest.php"
+  ],
+  "readme" : {
+    "en": "README.md"
+  },
+  "main": "app/binary.php",
+  "test": "phpunit test"
 }
+
