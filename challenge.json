@@ -1,14 +1,18 @@
 ﻿{
-    "editable": [
-        "Main.cs"
-    ],
-    "excludes": [
-        ".gitignore",
-        "challenge.json"
-    ],
-    "test": "nunit-console target/SimpleBinaryChallenge.dll",
     "tags": [
         "C#",
         "Algorithm"
-    ]
+    ],
+    "editable": [
+        "Main.cs",
+        ".gitignore"
+    ],
+    "excludes": [
+        "challenge.json"
+    ],
+    "readme" : {
+        "en" : "README.md"
+    },
+    "main": "Main.cs",
+    "test": "nunit-console target/SimpleBinaryChallenge.dll",
 }

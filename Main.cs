@@ -13,6 +13,8 @@ namespace SimpleBinaryChallenge
             //BEGIN_CHALLENGE
             return Convert.ToString(i, 2);
             //END_CHALLENGE
+            //Please write your code here and remove following return
+            return "result";
         }
     }
 }
