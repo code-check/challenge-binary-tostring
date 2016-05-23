@@ -1,15 +1,19 @@
 {
-  "editable": [
-    "src/main/java/*"
-  ],
-  "excludes": [
-    ".gitignore",
-    "challenge.json",
-    "HiddenTest.java"
-  ],
-  "test": "mvn test",
   "tags": [
       "Java",
       "Algorithm"
-  ]
+  ],
+  "editable": [
+    "src/main/java/*",
+    ".gitignore"
+  ],
+  "excludes": [
+    "challenge.json",
+    "HiddenTest.java"
+  ],
+  "readme" : {
+    "en" : "README.md"
+  },
+  "main": "src/main/java/Main.java",
+  "test": "mvn test"
 }
