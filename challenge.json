@@ -1,15 +1,19 @@
 {
-  "editable": [
-    "src/main/scala/Binary.scala"
-  ],
-  "excludes": [
-    ".gitignore",
-    "challenge.json",
-    "BinaryHiddenTest.scala"
-  ],
-  "test": "sbt test",
   "tags": [
       "Scala",
       "Algorithm"
-  ]
+  ],
+  "editable": [
+    ".gitignore",
+    "src/main/scala/Binary.scala"
+  ],
+  "excludes": [
+    "challenge.json",
+    "BinaryHiddenTest.scala"
+  ],
+  "readme" : {
+    "en": "README.md"
+  },
+  "main": "src/main/scala/Binary.scala",
+  "test": "sbt test"
 }
