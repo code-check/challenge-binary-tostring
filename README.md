@@ -9,6 +9,10 @@ For example:
 
 Reference: [Decimal to Binary number](https://en.wikipedia.org/wiki/Binary_number)
 
+Note:
+- You should use [filename](filepath) to solve the challenge.
+- You can refer the tests [here](filepath).
+
 ### Test Results *before* solving the challenge  
 ```
 Write Test reults before solving challenge
@@ -20,9 +24,9 @@ Write Test reults after solving challenge
 ```
 --- --- ---
 ## Run Tests
-To run tests locally install `codecheck` by running the following command in terminal 
+To run tests locally install `codecheck` by running the following command in terminal.
 ```
 $ npm install codecheck -g
 ```
-To run tests in web editor please click in `RUN` button on left side of web editor
+To run tests in web editor please click in `RUN` button on left side of web editor.
 
