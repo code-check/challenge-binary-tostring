@@ -10,17 +10,23 @@ For example:
 Reference: [Decimal to Binary number](https://en.wikipedia.org/wiki/Binary_number)
 
 Note:
-- You should use [filename](filepath) to solve the challenge.
-- You can refer the tests [here](filepath).
+- You should use [app.js](app.js) to solve the challenge.
+- You can refer the tests [here](test/test1.js).
 
 ### Test Results *before* solving the challenge  
 ```
-Write Test reults before solving challenge
+codecheck: Finish with code 5
+codecheck: tests  : 5
+codecheck: success: 0
+codecheck: failure: 5
 ```
 
 ### Test Results *after* solving the challenge
 ```
-Write Test reults after solving challenge
+codecheck: Finish with code 0
+codecheck: tests  : 5
+codecheck: success: 5
+codecheck: failure: 0
 ```
 --- --- ---
 ## Run Tests

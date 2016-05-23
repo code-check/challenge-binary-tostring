@@ -1,16 +1,20 @@
 ﻿{
-    "editable": [
-        "app.js"
-    ],
-    "excludes": [
-        ".gitignore",
-        "challenge.json",
-        "test2.js"
-    ],
-    "test": "mocha",
-    "tags": [
-        "JavaScript",
-        "Node.js",
-        "Algorithm"
-    ]
+  "tags": [
+    "JavaScript",
+    "Node.js",
+    "Algorithm"
+  ],
+  "editable": [
+    "app.js",
+    ".gitignore"
+  ],
+  "excludes": [
+    "challenge.json",
+    "test2.js"
+  ],
+  "readme" : {
+    "en": "README.md"
+  },
+  "main": "app.js",
+  "test": "mocha"
 }
